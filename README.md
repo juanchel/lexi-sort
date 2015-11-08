@@ -1,4 +1,4 @@
-This is my challenge 2: a function that sorts strings based on a lexicographical ordering.
+This is my deliverable for challenge 2: a function that sorts strings based on a lexicographical ordering.
 
 ### How to use
 ```python
